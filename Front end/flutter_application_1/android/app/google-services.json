@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639348745100",
+    "project_id": "clinics-chat",
+    "storage_bucket": "clinics-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639348745100:android:77e8a460d816864fd1eca9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeJ8pL4GS_CQQ6aor0bepfr-teFEuDGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
