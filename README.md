@@ -77,8 +77,8 @@ A demo of the splash screen and user interface highlights the user-friendly desi
 
 ## Project Files  
 For a detailed overview and project assets, please visit the Drive folder:  
-[**Clinic Core Project Files**](https://drive.google.com/drive/u/0/folders/1-taasnXIOtN1LolgRhDJtJARUc7ByDdY).  
+[**Clinic Core Project Demo**](https://drive.google.com/drive/u/0/folders/1-taasnXIOtN1LolgRhDJtJARUc7ByDdY).  
 
 ---  
 
-Feel free to contribute, raise issues, or provide feedback! 😊  
+Feel free to contribute, raise issues, or provide feedback! 
