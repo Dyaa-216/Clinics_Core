@@ -1,45 +1,77 @@
-#Clinics Core: Graduation Project Overview
-Clinics Core is a comprehensive healthcare management solution developed to address the challenges faced by patients, doctors, clinics, and pharmacies in Palestine. Our project aimed to simplify clinic operations and improve accessibility for all users through an innovative mobile app and website.
+# Clinics Core: A Comprehensive Healthcare Management Solution  
 
-Key Features
-Patients:
+Clinics Core is a robust healthcare management system designed to address the unique challenges faced by patients, doctors, clinics, and pharmacies in Palestine. By combining mobile and web platforms, Clinics Core simplifies clinic operations and enhances accessibility for all users.  
 
-Book and manage appointments.
-Communicate with doctors and clinics.
-Receive notifications for updates.
-AI-based preliminary diagnosis.
-Doctors:
+---
 
-Access patient records and history.
-Manage appointments and schedules.
-Clinics:
+## Key Features  
 
-Manage doctors, patients, and specialties.
-Communicate via notifications.
-Pharmacies:
+### Patients  
+- Book and manage appointments.  
+- Communicate with doctors and clinics.  
+- Receive notifications for updates.  
+- AI-based preliminary diagnosis.  
 
-Access patient prescriptions using ID.
-Admin:
+### Doctors  
+- Access patient records and history.  
+- Manage appointments and schedules.  
 
-Oversee all system users with advanced control features.
-Technologies Used
-Frontend: Flutter (Dart)
-Backend: Node.js and Express.js
-Database: MySQL
-Version Control: GitHub
-Testing Tools: Postman, Thunder Client
-Development Approach
-We followed Agile methodology, dividing tasks into iterative cycles for:
+### Clinics  
+- Manage doctors, patients, and specialties.  
+- Communicate via notifications.  
 
-Requirement gathering.
-Designing (UML diagrams and database schemas).
-Development (frontend-first, backend integration).
-Testing and feedback implementation.
-Constraints and Challenges
-Limited time and budget.
-First-time experience with Flutter and Dart.
-Resource constraints for iOS testing.
-Results
-The project successfully integrates multiple user roles, ensuring streamlined clinic operations and improved healthcare accessibility. A demo of the splash screen and interface highlights the user-friendly design and seamless functionality.
+### Pharmacies  
+- Access patient prescriptions using ID.  
 
-For a detailed overview and project assets, please visit the Drive folder: [Clinic Core Project Files](https://drive.google.com/drive/u/0/folders/1-taasnXIOtN1LolgRhDJtJARUc7ByDdY).
+### Admin  
+- Oversee all system users with advanced control features.  
+
+---
+
+## Technologies Used  
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Node.js and Express.js  
+- **Database:** MySQL  
+- **Version Control:** GitHub  
+- **Testing Tools:** Postman, Thunder Client  
+
+---
+
+## Development Approach  
+
+### Methodology: Agile  
+We divided the project into iterative cycles for:  
+1. **Requirement Gathering**: Understanding user needs and system specifications.  
+2. **Designing**:  
+   - UML diagrams.  
+   - Database schema.  
+3. **Development**:  
+   - Frontend-first approach.  
+   - Backend integration.  
+4. **Testing and Feedback**: Iterative testing and implementation of feedback.  
+
+---
+
+## Constraints and Challenges  
+- Limited time and budget.  
+- First-time experience with Flutter and Dart.  
+- Resource constraints for iOS testing.  
+
+---
+
+## Results  
+The project integrates multiple user roles, ensuring:  
+- Streamlined clinic operations.  
+- Improved healthcare accessibility.  
+
+A demo of the splash screen and user interface highlights the user-friendly design and seamless functionality.  
+
+---
+
+## Project Files  
+For a detailed overview and project assets, please visit the Drive folder:  
+[**Clinic Core Project Files**](https://drive.google.com/drive/u/0/folders/1-taasnXIOtN1LolgRhDJtJARUc7ByDdY).  
+
+---  
+
+Feel free to contribute, raise issues, or provide feedback! 😊  
