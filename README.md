@@ -2,6 +2,9 @@
 
 Clinics Core is a robust healthcare management system designed to address the unique challenges faced by patients, doctors, clinics, and pharmacies in Palestine. By combining mobile and web platforms, Clinics Core simplifies clinic operations and enhances accessibility for all users.  
 
+![Screenshot_1706464677](https://github.com/user-attachments/assets/202e9811-141d-4261-bc8a-334e429![Screenshot_1706464686](https://github.com/user-attachments/assets/2ae25725-9220-41c3-9ce9-f97a7c95712f)
+6cb35)
+![Screenshot_1706465923](https://github.com/user-attachments/assets/78cad3d0-7e03-4ada-8b4e-1fe343a5c74f)
 
 ---
 
