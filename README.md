@@ -1,4 +1,4 @@
-Clinics Core: Graduation Project Overview
+#Clinics Core: Graduation Project Overview
 Clinics Core is a comprehensive healthcare management solution developed to address the challenges faced by patients, doctors, clinics, and pharmacies in Palestine. Our project aimed to simplify clinic operations and improve accessibility for all users through an innovative mobile app and website.
 
 Key Features
